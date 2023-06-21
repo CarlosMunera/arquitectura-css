@@ -1,5 +1,7 @@
 # Practica Frontend UI - Arquitectura CSS
 
+#OracleNextEducation #SoyDevEnFormacionONEG5 #HelloONEG5 @Oracle  @AluraLatam
+
 Trabajo práctico para el aprendizaje de la arquitectura CSS mediante el desarrollo de un sitio web Fruta&Fruto
 
 
@@ -22,8 +24,5 @@ Trabajo práctico para el aprendizaje de la arquitectura CSS mediante el desarro
 
 
 
-## Author
-
-- LinkedIn - [@CarlosMunera](https://www.frontendmentor.io/profile/CarlosMunera)
 
 
